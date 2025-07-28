@@ -1,0 +1,26 @@
+{
+  "name": "com.aiowl-aidialoguesystem",
+  "version": "1.0.0",
+  "displayName": "AIDialogueSystem",
+  "description": "This is for the dialogue system in Jumper that implements AI",
+  "unity": "6000.0",
+  "unityRelease": "25f1",
+  "documentationUrl": "https://example.com/",
+  "changelogUrl": "https://example.com/changelog.html",
+  "licensesUrl": "https://example.com/licensing.html",
+  "dependencies": { 
+    "com.unity.textmeshpro": "3.0.6",
+    "com.unity.ugui": "1.0.0"
+ },
+ "keywords": [
+    "keyword1",
+    "keyword2",
+    "keyword3"
+  ],
+  "author": {
+    "name": "Devin Fitch",
+    "email": "d.fitch8899@gmail.com",
+    "url": "https://www.unity3d.com"
+  }
+}
+
